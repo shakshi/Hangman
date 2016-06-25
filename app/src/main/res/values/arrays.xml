@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="computer_parts">
+        <item><u>ADAPTER</u></item>
+        <item><u>BATTERY</u></item>
+        <item><u>RAM</u></item>
+        <item><u>COMPUTER</u></item>
+        <item><u>JOYSTICK</u></item>
+        <item><u>MONITOR</u></item>
+        <item><u>KEYBOARD</u></item>
+        <item><u>MICR</u></item>
+        <item><u>IPHONE</u></item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item>KOHIMA</item>
+        <item>AIZWAL</item>
+        <item>AGARTALA</item>
+        <item>ZURICH</item>
+        <item>NEWYORK</item>
+        <item>ATHENS</item>
+        <item>ITANAGAR</item>
+        <item>RIO</item>
+    </string-array>
+
+    <string-array name="cars">
+        <item>INNOVA</item>
+        <item>SWIFT</item>
+        <item>QUANTO</item>
+        <item>NANO</item>
+        <item>FERARI</item>
+        <item>JAGUAR</item>
+        <item>DUSTER</item>
+        <item>ZEN</item>
+        <item>ALTO</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>APPLE</item>
+        <item>MANGO</item>
+        <item>GUAVA</item>
+        <item>ORANGE</item>
+        <item>BANANA</item>
+        <item>GRAPES</item>
+        <item>POMEGRATE</item>
+        <item>PEACH</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>ASSAM</item>
+        <item>DELHI</item>
+        <item>GOA</item>
+        <item>TELANGANA</item>
+        <item>ANDHRA PRADESH</item>
+        <item>ARUNACHAL PRADESH</item>
+        <item>UTTRAKHAND</item>
+        <item>GUJARAT</item>
+        <item>RAJASTHAN</item>
+        <item>RAJASTHAN</item>
+    </string-array>
+
+
+    <string-array name="categories">
+        <item>cars</item>
+        <item>capitals</item>
+        <item>computer_parts</item>
+        <item>fruits</item>
+        <item>states</item>
+    </string-array>
+
+</resources>
